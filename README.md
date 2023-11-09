@@ -26,6 +26,7 @@
 
 <p dir="auto">Estos son algunos lenguajes de programación que uso para mi aprendizaje de cada día, o los que he usado y sé usar lo básico.</p>
 <p align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e38881f2bb5e9963d67e10529807190728726d842881f65f2fd26633e6656337/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079"><img src="https://camo.githubusercontent.com/e38881f2bb5e9963d67e10529807190728726d842881f65f2fd26633e6656337/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079" alt="My Skill" data-canonical-src="https://skillicons.dev/icons?i=py" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4199191bff0e00930a78bbcd5f4257c4db4efc3d4bf3b19ca16041751b4c1be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="My Skill" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
 
   
 ### ⚙️ &nbsp;GitHub Analytics
